@@ -11,4 +11,8 @@ Multi-modal hashing method is widely used in multimedia retrieval. It can fuse m
   <img src="https://github.com/HackerHyper/CLIPMH/blob/main/ARCH.jpg">
 </div>
 
+## EXPERIMENTS
+<div align="center">
+  <img src="https://github.com/HackerHyper/CLIPMH/blob/main/exp.png">
+</div>
 
